@@ -23,3 +23,9 @@
 * backgroud color-In the name, but it gives backgroud color to your page.
 * height-For image, it changes the height.
 * width-For image again, it changes the width of it.
+# Git hub 
+* git status-You put it in to git bash.
+* git add.-If it shows red file.
+* git commit -m"something here"-If it shows green file.
+* git push-If it shows white file.
+* git pull-If it shows yellow file.
