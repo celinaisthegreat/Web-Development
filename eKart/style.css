@@ -5,15 +5,16 @@
 
  #nav{  
     text-align: center; 
-    background-color:blanchedalmond; 
+    background-color:rgb(248, 248, 230); 
     margin-top: 15px;
     padding-right: 10px; 
     padding-left: 10px;
+    border: 2px solid rgb(255,10,15);
 } 
 
 .anchor{ 
     text-decoration: none; 
-    color:crimson; 
+    color:rgb(255,0,0); 
     font-size:x-large; 
     margin-bottom: 15px; 
     padding-right: 10px; 
@@ -33,11 +34,11 @@ h1{
 
 #image{ 
     height:350px ; 
-    width:600px ;
+    width:600px ; 
 } 
 
 .paragraph{ 
-    text-align: center;
+    text-align: center; 
 } 
 #bol{ 
     font-size: larger; 
@@ -53,7 +54,6 @@ h1{
 #col{ 
     font-size: medium; 
     font-weight: bold; 
-   color:rgba(172, 39, 59, 0.943); 
 }  
 
 .price{ 
