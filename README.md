@@ -32,4 +32,4 @@
 # Shortcut keys
 * ctrl+/= comment 
 * alt+down/up arrows= shifting the code up or down (keep the alt pressed) 
-* alt+click= makes multiply cursers (keep the alt pressed)
+* alt+click= makes multiply cursers (keep the alt pressed) 
