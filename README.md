@@ -33,3 +33,5 @@
 * ctrl+/= comment 
 * alt+down/up arrows= shifting the code up or down (keep the alt pressed) 
 * alt+click= makes multiply cursers (keep the alt pressed) 
+* up/down arrow keys= in git bash it shows you your original code 
+* tab= auto complete the word in git bash
