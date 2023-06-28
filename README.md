@@ -34,4 +34,8 @@
 * alt+down/up arrows= shifting the code up or down (keep the alt pressed) 
 * alt+click= makes multiply cursers (keep the alt pressed) 
 * up/down arrow keys= in git bash it shows you your original code 
-* tab= auto complete the word in git bash
+* tab= auto complete the word in git bash 
+# Displays 
+* inline-context space, also it doesn't take width or height but it does take margin and padding
+* block-takes line, and unlike the inline it takes in width, height, margin, and padding 
+* inline block-context space, and takes in width, height, margin, and padding
