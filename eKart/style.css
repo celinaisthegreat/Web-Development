@@ -1,20 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 *{   
-    margin: 0px;
+  margin: 0px;
   padding: 0px;
+  font-family: 'Dancing Script', cursive;
 }
 
-#nav{  
-   text-align: center; 
-   background-color:rgb(248, 248, 230); 
-   margin-top: 15px;
-   padding-right: 10px; 
-   padding-left: 10px;
-   border: 2px solid rgb(255,10,15);
+ #nav{  
+    text-align: center; 
+    background-color:#ffd; 
+    margin-top: 15px;
+    padding-right: 10px; 
+    padding-left: 10px;
+    border:10px color #903;
 } 
 
 .anchor{ 
     text-decoration: none; 
-    color:rgb(255,0,0); 
+    color:#914; 
     font-size:x-large; 
     margin-bottom: 15px; 
     padding-right: 10px; 
@@ -34,11 +36,11 @@ h1{
 
 #image{ 
     height:350px ; 
-    width:600px ; 
+    width:600px ;
 } 
-
 .paragraph{ 
-    text-align: center; 
+
+    text-align: center;
 } 
 #bol{ 
     font-size: larger; 
@@ -54,11 +56,25 @@ h1{
 #col{ 
     font-size: medium; 
     font-weight: bold; 
+   color:rgba(172, 39, 59, 0.943);
+   margin: 15px;
 }  
 
 .price{ 
     margin-top: 15px; 
     margin-bottom: 15px;
 }
+
+.ali{ 
+    display: inline;
+} 
+
+.container {
+    text-align: center;
+    margin-top: 35px;
+   
+} 
+
+
 
 
