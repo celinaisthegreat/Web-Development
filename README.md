@@ -45,3 +45,8 @@
 * Bootstrap 5-A place where you can get pieces of code to make your webstite 
 * .bg-primary= You can put this in your code to put color into the background
 * .bg-gradient= If you put this with the .bg-primary then it will and a semi transparent fade that ends at the bottom
+* text-wrap=This make the text go into a little border color thing 
+* text-lowercase=This can change your text into uppercase, lowercase, or capitalize
+* font-size=You can change the size of you text with this
+* font-weight=This changes how dark you want the text to be
+* font-italics=This make the letters look slanted
