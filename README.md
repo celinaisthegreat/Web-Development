@@ -6,7 +6,6 @@
 * Frontend-Whole screen on your browser.
 * Backend-Group or sets of secret computers that store stuff the frontend can't.
 * Sever-Stores data and is basically the Backend.
-* CSS-Casing Style Sheet and is use to style the text and stuff.
 * <b>Bold</b>-This tag make things darker and bigger, but when it comes to coding we really don't use it.
 * <strong>Strong</strong>-This tag is used in replacement of the bold tag, it makes things stronger than the rest.
 * <i>Italic</i>-This tag is use to make things look fancy and slanted, like the bold tag we also really don't use it.
@@ -18,11 +17,14 @@
 * Margin-Space between the outside part and the border of the element.
 * &Snbsp;-This is use to space stuff out.
 * <a href="webstite" target="blank"> Webstite</a>-This tag is use to put a link inside.
+# Css 
+* CSS-Casing Style Sheet and is use to style the text and stuff.
+* height-For image, it changes the height.
+* width-For image again, it changes the width of it.
 * text alignment-Tag that makes your text go somewhere you want.
 * color-Colors text.
 * backgroud color-In the name, but it gives backgroud color to your page.
-* height-For image, it changes the height.
-* width-For image again, it changes the width of it.
+* If you need to put sothing in the middle then margin right=auto margin left=auto and text align=center
 # Git hub 
 * git status-You put it in to git bash.
 * git add.-If it shows red file.
@@ -39,3 +41,7 @@
 * inline-context space, also it doesn't take width or height but it does take margin and padding
 * block-takes line, and unlike the inline it takes in width, height, margin, and padding 
 * inline block-context space, and takes in width, height, margin, and padding
+# Bootstrap 
+* Bootstrap 5-A place where you can get pieces of code to make your webstite 
+* .bg-primary= You can put this in your code to put color into the background
+* .bg-gradient= If you put this with the .bg-primary then it will and a semi transparent fade that ends at the bottom
