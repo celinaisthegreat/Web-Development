@@ -50,3 +50,7 @@
 * font-size=You can change the size of you text with this
 * font-weight=This changes how dark you want the text to be
 * font-italics=This make the letters look slanted
+# Naming Conventions
+* uppercase and lowercase: possible
+* numbers: can be anywhere except in the front
+* underscore and dollar signs are okay
