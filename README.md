@@ -50,7 +50,24 @@
 * font-size=You can change the size of you text with this
 * font-weight=This changes how dark you want the text to be
 * font-italics=This make the letters look slanted
-# Naming Conventions
+# Naming Conventions of JavaScript Variables
 * uppercase and lowercase: possible
 * numbers: can be anywhere except in the front
 * underscore and dollar signs are okay
+# Let vs Const vs Var
+* let-Can change value also new way
+* const-Can't change value 
+* var-Can change value but is old way 
+# Data-types in Javascript 
+* number-Thing that store decimals and intergers
+* undefined-Will show if you don't put any value into the variable
+* null-Is a value but kind of not 
+* bigint-Can store more numbers than the number data-type, also if you want it to show then put n and the end
+* string-Stores words and lines but you have to put them in quotations," " or ' '
+* boolean-True or false        
+
+
+
+
+
+
