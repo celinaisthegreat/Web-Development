@@ -54,6 +54,7 @@
 * uppercase and lowercase: possible
 * numbers: can be anywhere except in the front
 * underscore and dollar signs are okay
+* Javascript variables are case-sensitive
 # Let vs Const vs Var
 * let-Can change value also new way
 * const-Can't change value 
@@ -64,7 +65,14 @@
 * null-Is a value but kind of not 
 * bigint-Can store more numbers than the number data-type, also if you want it to show then put n and the end
 * string-Stores words and lines but you have to put them in quotations," " or ' '
-* boolean-True or false        
+* boolean-True or false 
+# Assignment Operators
+* all assignment operators expressions execute from right to left    ++ is a unary operator
+* binary operator =,+,/,-, are binary operators because they need two operands to execute
+* unary operator=is inplemented on a single operator
+* operand=numbers, string, and variables which are surronding the operator
+* assignment operators:=, +=, -=, *=, /=
+* if dividend < diviser then %(moduele) operator will give dividend will appear
 
 
 

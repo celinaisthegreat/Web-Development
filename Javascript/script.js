@@ -63,6 +63,47 @@
 // let word="gaeriogwraehiobfljbglkiorgopipjqrtiojphuyrgefsdhxjjgnwrierudbwjsnufiafsaiwurfasyff"; 
 // console.log(typeof word);
 
+//Assignment operators '='
 
+// let age=75;
+// age=20+4;
+// console.log(age);
+
+// age+=7;
+// age=age+7;
+// console.log(age);
+
+// let age=54;
+// age+=4;
+// console.log(age);
+
+//++ is a unary operator
+//binary operator =,+,/,-, are binary operators because they need two operands to execute
+//unary operator=is inplemented on a single operator
+//operand=numbers, string, and variables which are surronding the operator
+//example:age=a+3;
+//Here, a and 3 are the operands and + is the operator
+
+// age++;
+// age+=1;
+// age=age+1;
+
+//age++2; = this is nothing, it will give error
+// age+=2;
+// age=age+2;
+
+// age--;
+// age -= 1;
+// age= age-1;
+
+// let age=54;
+// age*=2;
+// console.log(age);
+
+//Assignment operators:
+//=, +=, -=, *=, /=
+
+// if dividend < diviser then %(moduele) operator will give dividend will appear
+// console.log(3%85);
 
 
