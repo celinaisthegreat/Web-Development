@@ -58,7 +58,11 @@
 # Let vs Const vs Var
 * let-Can change value also new way
 * const-Can't change value 
-* var-Can change value but is old way 
+* var-Can change value but is old way
+* Using var, you can redeclare a variable in javascript and it will update the value of the variable
+* Using let, you can't redeclare a variable in javascript 
+* In var variable, you can give the value to the variable after or before the declaration
+* In let variable, you should give the value to the variable after the declaration
 # Data-types in Javascript 
 * number-Thing that store decimals and intergers
 * undefined-Will show if you don't put any value into the variable
@@ -73,6 +77,10 @@
 * operand=numbers, string, and variables which are surronding the operator
 * assignment operators:=, +=, -=, *=, /=
 * if dividend < diviser then %(moduele) operator will give dividend will appear
+# Arithematic Operators
+* Arithematic operators=**, -, +, *, /, %
+* you can declace multiply variables inside one line
+
 
 
 

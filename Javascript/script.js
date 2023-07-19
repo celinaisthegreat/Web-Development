@@ -106,4 +106,34 @@
 // if dividend < diviser then %(moduele) operator will give dividend will appear
 // console.log(3%85);
 
+//Arithematic operators
+// console.log(2**3);
+// console.log(2-3);
+// console.log(2+3);
+// console.log(2*3);
+// console.log(2/3);
+// console.log(2%3);
 
+//you can declace multiply variables inside one line
+//let a=3, b=4, c=5;
+// console.log(a,b,c);
+
+//using var, you can redeclare a variable in javascript and it will update the value of the variable
+//using let, you can't redeclare a variable in javascript
+// let a=4;
+// let a=3;
+// console.log(a);
+
+// var a=4;
+// var a=3;
+// console.log(a);
+
+//In var variable, you can give the value to the variable after or before the declaration
+//In let variable, you should give the value to the variable after the declaration
+// a=500;
+// let a;
+//  console.log(a);
+
+// b=500;
+//  var b;
+//  console.log(b);
