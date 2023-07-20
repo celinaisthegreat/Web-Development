@@ -65,6 +65,8 @@
 
 //Assignment operators '='
 
+//An operator is capable of manipulating a certain value or operand
+
 // let age=75;
 // age=20+4;
 // console.log(age);
@@ -137,3 +139,110 @@
 // b=500;
 //  var b;
 //  console.log(b);
+
+//conditional statements in javascript
+// age=12;
+// if(age>18){
+//     console.log("you can vote")
+// }
+// else if(age<18){
+//     console.log("you can't vote")
+// }
+// else{
+//     console.log("go to sleep")
+// }
+
+// if(2==3){
+//     console.log("equal")
+// }
+
+// else if(2==4){
+//     console.log("not equal")
+// }
+
+// else{
+//     console.log("don't know")
+// }
+
+// if(2==3){
+//     console.log("equal")
+// }
+
+// if(2==4){
+//    console.log("not equal")
+//  }
+
+// if(2==5){
+//      console.log("don't know")
+//  }
+
+// if(false==true){
+//      console.log("not possible")
+//  }
+
+// if(true){
+//      console.log("true")
+//  }
+
+//  else if(5!=3){
+//     console.log("not equal to 5 and 3")
+// }
+
+//  else if(4!=4){
+//      console.log("not equal to 4 and 4")
+//  }
+
+// else{
+//      console.log("Default Value")
+//  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

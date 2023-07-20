@@ -77,9 +77,11 @@
 * operand=numbers, string, and variables which are surronding the operator
 * assignment operators:=, +=, -=, *=, /=
 * if dividend < diviser then %(moduele) operator will give dividend will appear
+* An operator is capable of manipulating a certain value or operand
 # Arithematic Operators
 * Arithematic operators=**, -, +, *, /, %
 * you can declace multiply variables inside one line
+* Expontiention-**
 
 
 
