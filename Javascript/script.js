@@ -196,20 +196,36 @@
 //      console.log("Default Value")
 //  }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// x = 12;
+// y = 3;
+// z = 11;
+// if(x == 2 && x < 3){
+//     console.log(x);
+// }
+// if(x != 5){
+//     console.log("whatever");
+// }
+// if(x != 5 && y >= 5){
+//     console.log("its gonna happen");
+// }
+// if(z != 0 || x == 2){
+//     console.log("you say");
+// }
+// if(!(y < 10)){
+//     console.log(y);
+// }
+// else if(x < 10 || x < 5){
+//     console.log("okkkkkkk");
+// }
+// else if(y < 10 || y <= 0){
+//     console.log("pikachu");
+// }
+// else if(z == 0 && y ==5){
+//     console.log("Pikaboo");
+// }
+// else{
+//     console.log("Default value");
+// }
 
 
 
