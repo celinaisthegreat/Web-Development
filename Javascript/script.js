@@ -258,14 +258,16 @@
 //     console.log("Default value");
 // }
 
+// DOM manipulation
+// how to change the css style using javasrcipt:
 
+// document.querySelector(".body").style.backgroundColor="rgb(123,54,34)";
+// document.querySelector(".heading").style.color="rgb(12,45,12)";
+// document.querySelector(".heading").style.fontSize="15px";
 
-
-
-
-
-
-
+document.querySelector(".heading").style.color="rgb(100,12,12)";
+document.querySelector(".reasons").style.fontSize="25px";
+document.querySelector(".reasons").style.color="rgb(100,15,15)";
 
 
 
