@@ -1,3 +1,8 @@
+*{
+    margin:0;
+    padding:0;
+}
+
 .background{
     background-image:linear-gradient(to top, 
     #00000000, #000000c9), linear-gradient(to bottom, 
@@ -22,36 +27,38 @@
     margin-bottom:4000px; 
 }*/
 
-.navbar{
-    justify-content: center;
-    display: flex;
+ .navbar{
+    justify-content:start;
+     display: flex; 
     align-items: center;
-}
+} 
 
 .select-menu{
     margin-top: -40px;
-    /*margin-right:140px;*/
-    margin-left:800px;
+    margin-right:140px;
+    margin-left:800px; 
     background-color: black;
 }
 
 .button{
-    color:linear-gradient(to top, 
-    #00000000, #000000c9), linear-gradient(to bottom, 
-    #00000000, #000000c9);
+    margin-top:12px;
+    margin-left:50px;
+    margin-right:100px;
+    height:30px;
+    width:73px;
+    background-color:rgb(229, 9, 20);
+    color:white;
 }
 
 .lauguage{
-    height:10px ;
-    width: ;
+    margin-top:12px;
+    margin-left:70px;
+    margin-right:140px;
+    height:30px;
+    width:140px;
+    background-color: transparent;
+    color: white;
 }
-
-
-
-
-
-
-
 
 
 
