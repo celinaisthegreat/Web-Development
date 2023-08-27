@@ -28,13 +28,14 @@
 import random
 from flask import render_template, Flask
 
-app = Flask(_name_)
+app = Flask(__name__)
 
-@app.route('')
+@app.route('/')
 def index():
     return render_template('home.html')
 
-if _name_=="main":
+if __name__=="__main__":
+    app.run()
 
 
 
