@@ -3,10 +3,10 @@ from flask import Flask, request, render_template
 app = Flask(__name__)
 
 leaderboard_list=[
-    {'username':'Baodan', 'grade':95, 'age':16},
-    {'username':'Ethan', 'grade':0, 'age':13},
-    {'username':'Celina', 'grade':99, 'age':11},
-    {'username':'Angeline', 'grade':96, 'age':15},
+    {'username':'Baodan', 'grade':69, 'age':78, 'city':'Nampa'},
+    {'username':'Ethan', 'grade':-100000000, 'age':1, 'city':'Huntsville'},
+    {'username':'Celina', 'grade':99, 'age':11, 'city':'Albuquerque'},
+    {'username':'Angeline', 'grade':96, 'age':45, 'city':'Meridian'},
 ]
 
 @app.route('/leaderboard')
